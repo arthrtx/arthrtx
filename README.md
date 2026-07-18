@@ -61,24 +61,20 @@ Spanish      █████░░░░░  Intermediate
 
 ---
 
-## Coding Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arthrtx&theme=github-dark&hide_border=true"/>
-</p>
-
----
-
-## Workspace
-
-<p align="center">
-<img width="700" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="Coding"/>
-</p>
-
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=400&lines=Build.;Learn.;Improve." />
+<a href="https://github.com/arthrtx">
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="18" alt="GitHub"/>
+</a>
+&nbsp;
+<sub><b>arthrtx</b></sub>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<sub>arthurrthr1988@gmail.com</sub>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3500&pause=1000&color=8B949E&center=true&vCenter=true&width=340&lines=Build.;Learn.;Improve." />
 
 </div>
