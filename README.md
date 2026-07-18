@@ -2,72 +2,63 @@
 
 # Arthur Sal
 
-### Software Developer
+```text
+> Software Development Student
+> Backend • Python • Web Development
+```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Building+software.;Always+learning.;Turning+ideas+into+code." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Building+software...;Learning+every+day...;Welcome+to+my+GitHub." />
 
 </div>
 
 ---
 
-## About Me
+## ~/whoami
 
-```python
-class Arthur:
+```bash
+$ whoami
 
-    def __init__(self):
-        self.name = "Arthur Sal"
-        self.location = "Portugal"
-        self.role = "Software Developer"
+Name: Arthur Sal
+Location: Portugal
+Role: Software Development Student
 
-        self.learning = [
-            "Python",
-            "HTML",
-            "CSS",
-            "JavaScript",
-            "SQL"
-        ]
+Focus:
+- Backend Development
+- Python
+- Web Development
 
-    def mindset(self):
-        return "Always learning."
+Currently learning:
+- JavaScript
+- SQL
+- Clean Code
+
+Status:
+> Building projects and improving every day.
 ```
 
 ---
 
-## Tech Stack
+## ~/tech-stack
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,git,github,vscode"/>
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,git,github,vscode&theme=dark"/>
 </p>
 
 ---
 
-## Currently Learning
-
-- Python
-- JavaScript
-- SQL
-- Software Development
-- Clean Code
-
----
-
-## GitHub Stats
+## ~/github-stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=arthrtx&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthrtx&layout=compact&theme=github_dark&hide_border=true"/>
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=arthrtx&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthrtx&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000"/>
 </p>
 
 ---
 
 <div align="center">
 
-*"Discipline beats motivation."*
+```text
+"Build. Learn. Improve."
+```
 
 </div>
